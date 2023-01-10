@@ -1,0 +1,4 @@
+Antoni 20 30 10 20 30 Martell Espasa
+Maria 50 100 4 2 3
+Jaume 50 100 90 80 40
+
